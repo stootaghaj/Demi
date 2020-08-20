@@ -33,7 +33,7 @@ In order to run the code there are two options:
 ```
 
 ### Output of the model
-The model gives you frame level quality and save it in a csv file. The DEMI follows the MOS score scale, ranging from 1 to 5.
+The current version of model gives you frame level unclearness or blockiness (depends on the selection of model) quality and save it in a csv file. The DEMI follows the MOS score scale, ranging from 1 to 5. The temporal component is missing, but will be added soon. 
 
 ### Important Note
 - If you run the model for a video (using test_tyep = video), you may get memory error if the video is too lenghty or large. We recommend extracting frames beforehand and use the image-folders mode for testing.
