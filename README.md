@@ -10,7 +10,7 @@ In order to run the code there are two options:
 
 ```
     python test.py 
-        --model=./models/subjectiveDemo2_DMOS_Final.model 
+        --model=./models/subjectiveDemo2_DMOS_UC.model
         --videopath=./videos/ 
         --videoname=sample1.mp4 
         --test_type=video
