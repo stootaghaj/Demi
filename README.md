@@ -4,6 +4,8 @@
 This repo contains the code to train and test the frame-level DEMI. The code will be updated by mid September 2020.
 Please report any problem you faced or suggestion you have to improve the code. 
 
+# Note: The model will be updated by end januart 2021.
+
 ## How to Use
 In order to run the code there are two options:
 - Test the model on a video, which only the model (path together with name), video path, video name and test type (select video) must be specified. To do so, you can run it as follow:
