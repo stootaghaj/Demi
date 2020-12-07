@@ -4,7 +4,7 @@
 This repo contains the code to train and test the frame-level DEMI. The code will be updated by mid September 2020.
 Please report any problem you faced or suggestion you have to improve the code. 
 
-# Note: The model will be updated by end januart 2021.
+## Important Note: The model will be updated by end januart 2021.
 
 ## How to Use
 In order to run the code there are two options:
