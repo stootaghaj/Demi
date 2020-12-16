@@ -1,7 +1,7 @@
 # DEMI
 ## Deep Video Quality Estimation Model using Perceptual Video Quality Dimensions
 
-This repo contains the code to train and test the frame-level DEMI. The code will be updated by mid September 2020.
+This repo contains the code to train and test the frame-level DEMI. The code will be updated by end January 2021.
 Please report any problem you faced or suggestion you have to improve the code. 
 
 ## Important Note: The model will be updated by end January 2021.
