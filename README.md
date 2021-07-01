@@ -4,7 +4,7 @@
 This repo contains the code to train and test the frame-level DEMI. The code will be updated by end January 2021.
 Please report any problem you faced or suggestion you have to improve the code. 
 
-## Important Note: The model will be updated by end January 2021.
+## Important Note: The current version only predicts the Unlcearness and Fragmentation.
 
 ## How to Use
 In order to run the code there are two options:
