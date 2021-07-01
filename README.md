@@ -20,6 +20,7 @@ In order to run the code there are two options:
 
 - Test the model based on the extracted frames in nested folders, which requires specifying the model (path together with name), path of the folder that contains folders of frames, image format (e.g. png) and test type (image_folders). 
   -- It is very important to place all folders contain extracted frames in a specific folder. Please follow the example proivded in this repo.   
+  -- Please note that there are two models available to measure the Bluriness (subjectiveDemo2_DMOS_UC.model) and Blockiness (subjectiveDemo2_DMOS_VF.model) features.
 
 ```
     python test.py 
